@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CalypsoHebrard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Symfony 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @CalypsoHebrard, 
+I am a self-taught Front-End web developer who is excited to learn new ways to code 🌻
+
 
 <!---
 CalypsoHebrard/CalypsoHebrard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
